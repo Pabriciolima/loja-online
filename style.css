@@ -125,45 +125,7 @@ nav a {
 nav a:hover {
     transform: scale(1.05); /* Zoom ao passar o mouse */
 }
-/* Estilos do footer */
-
-footer {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 20px 0;
-    width: 100%;
-    position: fixed;
-    bottom: 0;
-    z-index: 999; /* Certifique-se de que o z-index seja maior que outros elementos */
-}
-
-/* Estilos do conteúdo do footer */
-.footer-content {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    max-width: 1200px;
-    margin: 0 auto;
-}
-
-.footer-content p {
-    margin: 0;
-    font-size: 16px;
-    color: #fff;
-
-}
-
-.footer-content a {
-    text-decoration: none;
-    color: #ffcc00;
-    font-weight: bold;
-    transition: color 0.3s;
-}
-
-.footer-content a:hover {
-    color: #ff9900; /* Cor ao passar o mouse */
-}
+/* Estilos do footer 
 
 
 /* Estilos da tabela de preços */
